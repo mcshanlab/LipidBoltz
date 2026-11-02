@@ -103,6 +103,5 @@ Adjust the paths and wandb configuration in the configtation file in `scripts/tr
 
 ```bash
 # Run training
-export PYTHONPATH="${PATH_TO_REPO}/src:${PYTHONPATH:-}"
 python scripts/train/train.py scripts/train/configs/lipidboltz.yaml
 ```
