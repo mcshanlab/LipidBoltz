@@ -10,7 +10,7 @@ LipidBoltz is an open-source co-folding model for predicting 3D lipid–protein 
 ## Installation
 ```bash
 # Clone this repository
-git clone https://github.com/zoeyxyang/LipidBoltz.git
+git clone https://github.com/mcshanlab/LipidBoltz.git
 cd LipidBoltz
 
 # Create your own virtual environment
