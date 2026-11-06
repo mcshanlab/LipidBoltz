@@ -7,7 +7,7 @@
 LipidBoltz is an open-source co-folding model for predicting 3D lipid–protein complex structures, with a focus on non-annular lipid–protein interactions. Built upon the [Boltz-1](https://github.com/jwohlwend/boltz) framework, LipidBoltz uses specialized fine-tuning strategies to improve lipid binding pose accuracy while preserving protein structure prediction quality, providing a tool for studying lipid–protein interactions and their biological roles.
 
 
-## Installtion
+## Installation
 ```bash
 # Clone this repository
 git clone https://github.com/zoeyxyang/LipidBoltz.git
